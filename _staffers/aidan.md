@@ -1,5 +1,6 @@
 ---
 name: Aidan McLoughlin
+team: Staff
 role: Teaching Assistant
 email: aidan_mcloughlin@berkeley.edu
 photo: aidan.jpg

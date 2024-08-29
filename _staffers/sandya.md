@@ -1,5 +1,6 @@
 ---
 name: Sandya Wijaya
+team: Staff
 role: Teaching Assistant
 email: sandya.wijaya@berkeley.edu
 photo: sandya.jpg

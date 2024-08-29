@@ -1,5 +1,6 @@
 ---
 name: Boyu Fan
+team: Staff
 role: Teaching Assistant
 email: david_fan1@berkeley.edu
 photo: boyu.jpg

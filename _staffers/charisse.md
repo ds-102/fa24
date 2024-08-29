@@ -1,5 +1,6 @@
 ---
 name: Charisse Liu
+team: Staff
 role: Teaching Assistant
 email: charisseliu@berkeley.edu
 # photo: charisse.jpg

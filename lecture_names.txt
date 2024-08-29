@@ -1,0 +1,27 @@
+0. No Lecture
+1. Binary Decision-Making I
+2. Binary Decision-Making II
+3. $$p$$-Values and Multiple Hypothesis Testing
+4. False Discovery Rate Control & ROC Curves
+5. Frequentist vs. Bayesian Decision-Making
+6. Introduction to Frequentist and Bayesian Modeling
+7. Bayesian Hierarchical Models
+8. Bayesian Inference with Sampling
+9. Rejection Sampling and Gibbs Sampling
+10. Regression and GLMs
+11. Model Checking for GLMs
+12. Uncertainty Quantification for GLMs
+13. Nonparametric Methods and Neural Networks
+14. Neural Networks and Interpretability
+15. Causal Inference I: Association and Causation
+16. Causal Inference II: Randomized Experiments
+17. Causal Inference III: Observational Studies
+18. Concentration Inequalities
+19. Bandits I
+20. Bandits II
+21. Reinforcement Learning I
+22. Reinforcement Learning II
+23. Monte Carlo Tree Search
+24. Privacy in Machine Learning
+25. Case Studies: Robustness and Generalization
+26. Course Wrap-Up

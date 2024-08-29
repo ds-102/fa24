@@ -1,0 +1,116 @@
+.main-content .module,
+.module {
+  @extend %card;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    &:first-child {
+      margin-top: $sp-4;
+    }
+  }
+
+  >dl {
+    border-bottom: $border $border-color;
+    border-top: $border $border-color;
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    margin: $sp-2 (-$sp-4);
+
+    &:first-child {
+      margin-top: 0;
+    }
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    @include mq(lg) {
+      grid-template-columns: 1fr 7fr;
+    }
+
+    %module-item {
+      margin: 0;
+      padding: $sp-2;
+
+      @include mq(sm) {
+        padding: $sp-2 $sp-4;
+      }
+    }
+
+    >dt {
+      @extend %module-item;
+      border-top: $border $border-color;
+      font-weight: normal;
+      text-align: right;
+
+      +dd {
+        border-top: $border $border-color;
+      }
+
+      &:first-child {
+        border-top: none;
+
+        +dd {
+          border-top: none;
+        }
+      }
+
+      &::after {
+        content: ":";
+      }
+    }
+
+    >dd {
+      @extend %module-item;
+
+      +dd {
+        padding-top: 0;
+      }
+
+      ol, ul, dl {
+        margin: 0;
+      }
+
+      dl {
+        display: flex;
+        flex-direction: column;
+
+        @include mq(sm) {
+          flex-direction: row;
+        }
+
+        dt {
+          flex: 0 0 80%;
+          margin: 0;
+        }
+
+        dd {
+          margin: 0;
+        }
+      }
+    }
+
+    .label-lecture { background-color: #5C5962; border-radius: 9px; }
+
+    .label-lab { background-color: #0461b8; border-radius: 9px; }
+    
+    .label-vit { background-color: #c1443c; border-radius: 9px; }
+
+    .label-hw { background-color: #5E41D0; border-radius: 9px; }
+
+    .label-exam { background-color: #E62100; border-radius: 9px; }
+
+    .label-crit { background-color: #FF8144; border-radius: 9px; }
+
+    .label-disc { background-color: #498226; border-radius: 9px; }
+
+    .label-survey { background-color: #aaaaaa; border-radius: 9px; }
+
+    .label-proj { background-color: #FF8144; border-radius: 9px; }
+
+  }
+}

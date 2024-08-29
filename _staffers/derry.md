@@ -8,4 +8,4 @@ photo: derry.jpg
 pronouns: 
 ---
 
-Hi everyone, my name is Derry.  I'm a senior studying CS/DS/Stats, looking forward to emeting everyone this semester!
+Hi everyone, my name is Derry.  I'm a senior studying CS/DS/Stats, looking forward to meeting everyone this semester!

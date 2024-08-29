@@ -1,4 +1,4 @@
-# Data 102 Fall 2023 Website
+# Data 102 Fall 2024 Website
 
 This [video](https://www.youtube.com/watch?v=azPPK5aOcV0) walks you through how to make changes to the website (just replace all instances of fa19 with fa23 and DS100 with Data 102).
 

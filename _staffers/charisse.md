@@ -4,7 +4,7 @@ team: Staff
 role: TA
 email: charisseliu@berkeley.edu
 website:
-photo:
+photo: charisse.jpg
 pronouns: 
 ---
 

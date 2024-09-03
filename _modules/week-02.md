@@ -8,7 +8,11 @@ Sep 2
 
 Sep 3
 : **Lecture**{: .label .label-lecture } 2. Binary Decision-Making II
-
+: **Discussion**{: .label .label-disc } [Discussion 1](https://drive.google.com/file/d/1_KGZs8kRbHutxizjEnNsw7osFjkPnp77/view?usp=drive_link)
 
 Sep 5
 : **Lecture**{: .label .label-lecture } 3. $$p$$-Values and Multiple Hypothesis Testing
+<!-- vitamin here -->
+
+<!-- Sept 6 -->
+<!-- hw1 here -->

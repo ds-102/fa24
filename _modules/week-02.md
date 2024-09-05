@@ -11,7 +11,7 @@ Sep 3
 : **Discussion**{: .label .label-disc } [Discussion 1](https://drive.google.com/file/d/1_KGZs8kRbHutxizjEnNsw7osFjkPnp77/view?usp=drive_link) ([Answers](https://drive.google.com/file/d/1o5H-YJPr3ZbfqMmk4v9Aws6aCcJJWjB2/view?usp=sharing))
 
 Sep 5
-: **Lecture**{: .label .label-lecture } 3. $$p$$-Values and Multiple Hypothesis Testing
+: **Lecture**{: .label .label-lecture } [3. Binary Decision-Making III: Hypothesis Testing](lecture/lec03)
 <!-- vitamin here -->
 
 <!-- Sept 6 -->

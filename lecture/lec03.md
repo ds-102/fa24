@@ -9,7 +9,7 @@ nav_exclude: true
 Presented by Alexander Strang
 
 - [Slides](https://docs.google.com/presentation/d/1Jf4kVysMCPa1kLloC8tYx51IZkCO3b95LaOOApEjlYA/edit?usp=sharing)
-- [Live Notes: Significance, Power, and Replicability](https://drive.google.com/file/d/1_gjBXJvXs_pX9FbPjeQgQxs5MKdr8K4p/view?usp=sharing)
-- [Live Notes: Bonferroni](https://drive.google.com/file/d/1Qkrar4h4QHi1-w0nZ2L6r9jpbpFL7hCy/view?usp=sharing)
+- [Notes: Significance, Power, and Replicability](https://drive.google.com/file/d/139rceD1LdCsqOHKy7kc3vy30q5R3eyKM/view?usp=sharing)
+- [Notes: Bonferroni](https://drive.google.com/file/d/1ChH0jF7FfAoRGYwxZYkw3C2RKwiCA5M9/view?usp=sharing)
 - [Text Book Chapter 1.2](https://data102.org/ds-102-book/content/chapters/01/02_hypothesis_testing.html)
 - [Text Book Chapter 1.3](https://data102.org/ds-102-book/content/chapters/01/03_multiple_tests.html)

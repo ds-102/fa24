@@ -12,7 +12,7 @@ Sep 3
 
 Sep 5
 : **Lecture**{: .label .label-lecture } [3. Binary Decision-Making III: Hypothesis Testing](lecture/lec03)
-<!-- vitamin here -->
+: **Vitamin**{: .label .label-vit } [Vitamin 2](https://www.gradescope.com/courses/845267/assignments/4863612) (due Sep 8 at 11:59 PM)
 
 <!-- Sept 6 -->
 <!-- hw1 here -->

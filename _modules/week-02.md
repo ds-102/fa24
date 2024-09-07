@@ -14,5 +14,5 @@ Sep 5
 : **Lecture**{: .label .label-lecture } [3. Binary Decision-Making III: Hypothesis Testing](lecture/lec03)
 : **Vitamin**{: .label .label-vit } [Vitamin 2](https://www.gradescope.com/courses/845267/assignments/4863612) (due Sep 8 at 11:59 PM)
 
-<!-- Sept 6 -->
-<!-- hw1 here -->
+Sept 6
+: **Homework**{: .label .label-hw } [Homework 1](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa24-materials&urlpath=lab%2Ftree%2Ffa24-materials%2Fhomework%2Fhw01%2Fhomework1.pdf&branch=main) (due Sept 20 at **5 PM**)

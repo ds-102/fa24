@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture 3 – Binary Decision Making IV 
+title: Lecture 4 – Binary Decision Making IV 
 nav_exclude: true
 ---
 

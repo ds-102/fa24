@@ -8,6 +8,7 @@ Sep 9
 
 Sep 10
 : **Lecture**{: .label .label-lecture } [Balancing Specificity and Sensitivity (FWER, Benjamini Hochberg, and Neyman Pearson)](lecture/lec04)
+: **Discussion**{: .label .label-disc } [Discussion 2](https://drive.google.com/file/d/1yourNrwzo5obj065VBsxrjYayf4RWfgS/view?usp=sharing)
 
 Sep 12
 : **Lecture**{: .label .label-lecture } 5. Frequentist vs. Bayesian Decision-Making

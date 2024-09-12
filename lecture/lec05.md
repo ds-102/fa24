@@ -9,5 +9,6 @@ nav_exclude: true
 Presented by Alexander Strang
 
 - [Slides](https://docs.google.com/presentation/d/1H4fWtrzVh-LSnx6pehEYDm41ndcAdk7NFVULpU5wwDA/edit?usp=sharing)
+- [Review Slides](https://docs.google.com/presentation/d/1ENw3IXAbJMsSsi5iVufnfo1kiqNl6TvQb-MMPNpAUF4/edit?usp=sharing)
 - [Notes: Loss and Risk](https://drive.google.com/file/d/1lbMMGCpjdI9AA3_L-9ZSdE9JySXr4sTr/view?usp=sharing)
 - [Text Book Chapter 1.5](https://data102.org/ds-102-book/content/chapters/01/05_decision_theory.html)

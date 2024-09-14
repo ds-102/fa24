@@ -12,3 +12,4 @@ Presented by Alexander Strang
 - [Review Slides](https://docs.google.com/presentation/d/1ENw3IXAbJMsSsi5iVufnfo1kiqNl6TvQb-MMPNpAUF4/edit?usp=sharing)
 - [Notes: Loss and Risk](https://drive.google.com/file/d/1yH5Jh8p4yV1MeorCOSxl7oT6V1UGbJI1/view?usp=sharing)
 - [Text Book Chapter 1.5](https://data102.org/ds-102-book/content/chapters/01/05_decision_theory.html)
+- [Recording](https://bcourses.berkeley.edu/courses/1538676/pages/lecture-5-decision-theory)

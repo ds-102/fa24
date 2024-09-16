@@ -12,4 +12,4 @@ Sep 10
 
 Sep 12
 : **Lecture**{: .label .label-lecture } [5. Decision Theory (Loss and Risk, Frequentist and Bayesian)](lecture/lec05)
-: **Vitamin**{: .label .label-vit } [Vitamin 2](https://www.gradescope.com/courses/845267/assignments/4914292) (due Sep 15 at 11:59 PM)
+: **Vitamin**{: .label .label-vit } [Vitamin 3](https://www.gradescope.com/courses/845267/assignments/4914292) (due Sep 15 at 11:59 PM)

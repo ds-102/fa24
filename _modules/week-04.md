@@ -7,7 +7,7 @@ Sep 16
 
 Sep 17
 : **Lecture**{: .label .label-lecture } [6. Parameter Estimation and Inference: Introduction to Frequentist and Bayesian Modeling](lecture/lec06)
-: **Discussion**{: .label .label-disc } [Discussion 3](https://drive.google.com/file/d/1KdkLWwpdIMxgQotYYDK3g7EXDtKAvPmo/view?usp=sharing)
+: **Discussion**{: .label .label-disc } [Discussion 3](https://drive.google.com/file/d/1KdkLWwpdIMxgQotYYDK3g7EXDtKAvPmo/view?usp=sharing)([Answers](https://drive.google.com/file/d/1NywY2oCPaEFw3BGzUMckXRVim9KTZLVl/view?usp=sharing))
 
 Sep 19
 : **Lecture**{: .label .label-lecture } 7. Bayesian Hierarchical Models

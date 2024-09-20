@@ -4,7 +4,7 @@ ref: 'week-7'
 ---
 
 Oct 8
-: **Lecture**{: .label .label-lecture } Midterm 1
+: **Lecture**{: .label .label-exam } Midterm 1
 
 Oct 10
 : **Lecture**{: .label .label-lecture } 12. Uncertainty Quantification for GLMs

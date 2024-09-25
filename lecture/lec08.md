@@ -8,7 +8,7 @@ nav_exclude: true
 
 Presented by Ramesh Sridharan
 
-- [Slides](https://docs.google.com/presentation/d/1u1mzKpPqMmehjlcv_Z_nOCk_A2E1vCh8JLc6N8jsLLg/edit?usp=sharing) (Annotated)
+- [Slides](https://docs.google.com/presentation/d/1u1mzKpPqMmehjlcv_Z_nOCk_A2E1vCh8JLc6N8jsLLg/edit?usp=sharing) ([Annotated](https://drive.google.com/file/d/1Xxd4koXQtWUGSgr0fKYLgdOABiOBnAZ8/view?usp=drive_link))
 - [Demo notebook](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa24-materials&urlpath=lab%2Ftree%2Ffa24-materials%2Flecture%2Flecture08%2Flec08.ipynb&branch=main)
 - Recording
 - Textbook reading:

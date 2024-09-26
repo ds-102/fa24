@@ -7,7 +7,7 @@ Sep 23
 
 Sep 24
 : **Lecture**{: .label .label-lecture } [8. Bayesian Hierarchical Models II](lecture/lec08)
-: **Discussion**{: .label .label-disc } [Discussion 4](https://drive.google.com/file/d/11C4p_L4XhOfSJw0GtrIYLmYRnFptOiii/view?usp=sharing)
+: **Discussion**{: .label .label-disc } [Discussion 4](https://drive.google.com/file/d/11C4p_L4XhOfSJw0GtrIYLmYRnFptOiii/view?usp=sharing) ([Answers](https://drive.google.com/file/d/1zOTqxldN_Qozuv8hMDsSVJP-YGmsh8Dl/view?usp=sharing))
 
 Sep 26
 : **Lecture**{: .label .label-lecture } [9. Bayesian Inference with Sampling](lecture/lec09)

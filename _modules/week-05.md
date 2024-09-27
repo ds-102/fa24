@@ -10,4 +10,5 @@ Sep 24
 : **Discussion**{: .label .label-disc } [Discussion 4](https://drive.google.com/file/d/11C4p_L4XhOfSJw0GtrIYLmYRnFptOiii/view?usp=sharing) ([Answers](https://drive.google.com/file/d/1zOTqxldN_Qozuv8hMDsSVJP-YGmsh8Dl/view?usp=sharing))
 
 Sep 26
-: **Lecture**{: .label .label-lecture } [9. Bayesian Inference with Sampling](lecture/lec09)
+: **Lecture**{: .label .label-lecture } [9. Bayesian Inference with Sampling](lecture/lec09) 
+: **Vitamin**{: .label .label-vit } [Vitamin 5](https://www.gradescope.com/courses/845267/assignments/5031070) (due Sep 29 at 11:59 PM)

@@ -6,7 +6,7 @@ Sep 30
 : **Lab**{: .label .label-lab } [Lab 5: Sampling & GLMs](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa24-materials&urlpath=lab%2Ftree%2Ffa24-materials%2Flab%2Flab05%2Flab05.ipynb&branch=main) (due Oct 2 at **5 PM**)
 
 Oct 1
-: **Lecture**{: .label .label-lecture } 10. Regression and GLMs
+: **Lecture**{: .label .label-lecture } [10. Sampling and Prediction](lecture/lec10)
 
 Oct 3
 : **Lecture**{: .label .label-lecture } 11. Model Checking for GLMs

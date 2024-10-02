@@ -7,6 +7,7 @@ Sep 30
 
 Oct 1
 : **Lecture**{: .label .label-lecture } [10. Sampling and Prediction](lecture/lec10)
+: **Discussion**{: .label .label-disc } [Discussion 5](https://drive.google.com/file/d/1Soq_puPTDdTmZReBNwkVPBxh1m-lG6tH/view?usp=sharing) 
 
 Oct 3
 : **Lecture**{: .label .label-lecture } 11. Model Checking for GLMs

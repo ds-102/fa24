@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Lecture 10 - Sampling and Prediction
 
-Presented by Ramesh Sridharan
+Presented by Alexander Strang
 
 - [Slides](https://docs.google.com/presentation/d/1MorXNxAPvRlTbU40oNojqUsPViHiUPnOVSJAoIl4OTQ/edit?usp=sharing) 
 - [Recording](https://bcourses.berkeley.edu/courses/1538676/pages/lecture-10-sampling-and-prediction)

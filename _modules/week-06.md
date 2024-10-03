@@ -10,4 +10,4 @@ Oct 1
 : **Discussion**{: .label .label-disc } [Discussion 5](https://drive.google.com/file/d/1Soq_puPTDdTmZReBNwkVPBxh1m-lG6tH/view?usp=sharing) ([Answers](https://drive.google.com/file/d/1P1qPBhOqtC5PPC3CaykESrS94WaZurov/view?usp=sharing))
 
 Oct 3
-: **Lecture**{: .label .label-lecture } 11. Model Checking for GLMs
+: **Lecture**{: .label .label-lecture } [11. GLMs](lecture/lec11)

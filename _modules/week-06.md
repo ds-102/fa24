@@ -11,3 +11,4 @@ Oct 1
 
 Oct 3
 : **Lecture**{: .label .label-lecture } [11. GLMs](lecture/lec11)
+: **Vitamin**{: .label .label-vit } [Vitamin 6](https://www.gradescope.com/courses/845267/assignments/5083124) (due Oct 6 at 11:59 PM)

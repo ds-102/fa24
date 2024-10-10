@@ -13,4 +13,4 @@ Oct 8
 : **Midterm**{: .label .label-exam } Midterm 1
 
 Oct 10
-: **Lecture**{: .label .label-lecture } 12. Uncertainty Quantification for GLMs
+: **Lecture**{: .label .label-lecture } [12. Uncertainty Quantification for GLMs](lecture/lec12)

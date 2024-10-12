@@ -14,3 +14,6 @@ Oct 8
 
 Oct 10
 : **Lecture**{: .label .label-lecture } [12. Uncertainty Quantification for GLMs](lecture/lec12)
+
+Oct 11
+: **Homework**{: .label .label-hw } [Homework 3](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa24-materials&urlpath=lab%2Ftree%2Ffa24-materials%2Fhomework%2Fhw03%2Fhw3.pdf&branch=main) (due Oct 25 at **5 PM**)

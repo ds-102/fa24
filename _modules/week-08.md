@@ -7,6 +7,7 @@ Oct 14
 
 Oct 15
 : **Lecture**{: .label .label-lecture } [13. Nonparametric Methods and Neural Networks](lecture/lec13)
+: **Discussion**{: .label .label-disc } [Discussion 6](https://drive.google.com/file/d/1LGXjyweih1bn33w_ita4118IymVhnao4/view?usp=drive_link)
 
 Oct 17
 : **Lecture**{: .label .label-lecture } 14. Neural Networks and Interpretability

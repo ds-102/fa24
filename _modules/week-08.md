@@ -10,4 +10,4 @@ Oct 15
 : **Discussion**{: .label .label-disc } [Discussion 6](https://drive.google.com/file/d/1LGXjyweih1bn33w_ita4118IymVhnao4/view?usp=drive_link) ([Answers](https://drive.google.com/file/d/1tpdGF307_UzCI2hWxiRaPma8UMRjv6e3/view?usp=drive_link))
 
 Oct 17
-: **Lecture**{: .label .label-lecture } 14. Neural Networks and Interpretability
+: **Lecture**{: .label .label-lecture } [14. Neural Networks and Interpretability](lecture/lec14)

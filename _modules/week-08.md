@@ -11,3 +11,4 @@ Oct 15
 
 Oct 17
 : **Lecture**{: .label .label-lecture } [14. Neural Networks and Interpretability](lecture/lec14)
+: **Vitamin**{: .label .label-vit } [Vitamin 7](https://www.gradescope.com/courses/845267/assignments/5165756) (due Oct 20 at 11:59 PM)

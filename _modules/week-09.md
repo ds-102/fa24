@@ -7,6 +7,7 @@ Oct 21
 
 Oct 22
 : **Lecture**{: .label .label-lecture } [15. Causal Inference I: Association and Causation](lecture/lec15)
+: **Discussion**{: .label .label-disc } [Discussion 7](https://drive.google.com/file/d/1AD9sOB2nHL9CKjBkQlX0j01i_TfSzYam/view?usp=sharing)
 
 Oct 24
 : **Lecture**{: .label .label-lecture } 16. Causal Inference II: Randomized Experiments

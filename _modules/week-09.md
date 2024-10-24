@@ -10,4 +10,4 @@ Oct 22
 : **Discussion**{: .label .label-disc } [Discussion 7](https://drive.google.com/file/d/1AD9sOB2nHL9CKjBkQlX0j01i_TfSzYam/view?usp=sharing) ([Answers](https://drive.google.com/file/d/1TPYRRl8xnYovqGRzSpCV7CVm--IOQKSh/view?usp=sharing))
 
 Oct 24
-: **Lecture**{: .label .label-lecture } 16. Causal Inference II: Randomized Experiments
+: **Lecture**{: .label .label-lecture } [16. Causal Inference II: Randomized Experiments](lecture/lec16)

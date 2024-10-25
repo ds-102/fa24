@@ -11,3 +11,4 @@ Oct 22
 
 Oct 24
 : **Lecture**{: .label .label-lecture } [16. Causal Inference II: Randomized Experiments](lecture/lec16)
+: **Vitamin**{: .label .label-vit } [Vitamin 8](https://www.gradescope.com/courses/845267/assignments/5201740) (due Oct 27 at 11:59 PM)

@@ -12,3 +12,6 @@ Oct 22
 Oct 24
 : **Lecture**{: .label .label-lecture } [16. Causal Inference II: Randomized Experiments](lecture/lec16)
 : **Vitamin**{: .label .label-vit } [Vitamin 8](https://www.gradescope.com/courses/845267/assignments/5201740) (due Oct 27 at 11:59 PM)
+
+Oct 25
+: **Homework**{: .label .label-hw } [Homework 4](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa24-materials&urlpath=lab%2Ftree%2Ffa24-materials%2Fhomework%2Fhw04%2Fhw4.pdf&branch=main) (due Nov 8 at **5 PM**)

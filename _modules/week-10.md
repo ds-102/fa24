@@ -7,7 +7,7 @@ Oct 28
 
 Oct 29
 : **Lecture**{: .label .label-lecture } [17. Causal Inference III: Observational Studies](lecture/lec17)
-: **Discussion**{: .label .label-disc } [Discussion 8](https://drive.google.com/file/d/1EhUOyDejlf26y5p7hJU1fwhrM-eG2psY/view?usp=sharing)
+: **Discussion**{: .label .label-disc } [Discussion 8](https://drive.google.com/file/d/1EhUOyDejlf26y5p7hJU1fwhrM-eG2psY/view?usp=sharing) ([Answers](https://drive.google.com/file/d/1dJQDk8KjSRLpyPJulhh50TXIfz644XSp/view?usp=sharing))
 
 Oct 31
 : **Lecture**{: .label .label-lecture } 18. Concentration Inequalities

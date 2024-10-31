@@ -9,4 +9,4 @@ nav_exclude: true
 Presented by Ramesh Sridharan
 
 - [Notes](https://drive.google.com/file/d/1mUTxUwyrJOdgFPamKLLybvIZvz7Knr2p/view?usp=sharing)
-- Textbook, [Martin Wainwright - High Dimensional Statistics - Chapter 4](https://drive.google.com/file/d/1gOOo-qhy-Tjl0AYMb2BvY5SMbFVi3xDX/view?usp=sharing)
+- Textbook, [Martin Wainwright - High Dimensional Statistics - Chapter 4](https://drive.google.com/file/d/1Fna7Qt7MIU9ylNwBbAN8FmpigLzf9zX2/view?usp=sharing)

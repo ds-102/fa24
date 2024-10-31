@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lecture 17 - Causal Inference III - Observational Studies
+title: Lecture 18 - Tail Bounds
 nav_exclude: true
 ---
 
-# Lecture 17 - Causal Inference III: Observational Studies
+# Lecture 18 - Tail Bounds
 
 Presented by Ramesh Sridharan
 

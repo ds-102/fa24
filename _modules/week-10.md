@@ -11,3 +11,4 @@ Oct 29
 
 Oct 31
 : **Lecture**{: .label .label-lecture } [18. Concentration Inequalities and Tail Bounds](lecture/lec18)
+: **Vitamin**{: .label .label-vit } [Vitamin 9](https://www.gradescope.com/courses/845267/assignments/5241780) (due Nov 3 at 11:59 PM)

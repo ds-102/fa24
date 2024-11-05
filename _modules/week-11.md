@@ -8,7 +8,7 @@ Nov 4
 
 
 Nov 5
-: **Lecture**{: .label .label-lecture } 19. Bandits I
+: **Lecture**{: .label .label-lecture } [19. Bandits I](lecture/lec19)
 
 Nov 7
 : **Lecture**{: .label .label-lecture } 20. Bandits II

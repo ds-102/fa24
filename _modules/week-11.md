@@ -9,7 +9,7 @@ Nov 4
 
 Nov 5
 : **Lecture**{: .label .label-lecture } [19. Bandits I](lecture/lec19)
-: **Discussion**{: .label .label-disc } [Discussion 9](https://drive.google.com/file/d/1MJUbJbZzqLQRDeD2ewxngW-_c5f0OCib/view?usp=sharing)
+: **Discussion**{: .label .label-disc } [Discussion 9](https://drive.google.com/file/d/1MJUbJbZzqLQRDeD2ewxngW-_c5f0OCib/view?usp=sharing) ([Answers](https://drive.google.com/file/d/1QeaeAqizXc9EIUoalen1a1MD7B5bhLce/view?usp=sharing))
 
 Nov 7
 : **Lecture**{: .label .label-lecture } 20. Bandits II

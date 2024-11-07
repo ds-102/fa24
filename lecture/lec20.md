@@ -8,6 +8,6 @@ nav_exclude: true
 
 Presented by Alexander Strang
 
-- [Notes](https://drive.google.com/file/d/1FNQNAXBjXFJ2c8ZZzbRQNtLKoGq5NoW2/view?usp=sharing)
-- [Slides](https://drive.google.com/file/d/1sRdSrXMYTR2IrOfnXXzSx8I1CaBVTBYy/view?usp=sharing)
+- [Notes](https://drive.google.com/file/d/1sRdSrXMYTR2IrOfnXXzSx8I1CaBVTBYy/view?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/10Njcpj4OGfrUIEWXvM7nPp75TQBzNiksIuUsZWkTfdY/edit?usp=sharing)
 

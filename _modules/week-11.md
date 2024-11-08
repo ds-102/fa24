@@ -13,3 +13,4 @@ Nov 5
 
 Nov 7
 : **Lecture**{: .label .label-lecture } [20. Bandits II](lecture/lec20)
+: **Vitamin**{: .label .label-vit } [Vitamin 10](https://www.gradescope.com/courses/845267/assignments/5273152) (due Nov 10 at 11:59 PM)

@@ -14,3 +14,6 @@ Nov 5
 Nov 7
 : **Lecture**{: .label .label-lecture } [20. Bandits II](lecture/lec20)
 : **Vitamin**{: .label .label-vit } [Vitamin 10](https://www.gradescope.com/courses/845267/assignments/5273152) (due Nov 10 at 11:59 PM)
+
+Nov 8
+: **Homework**{: .label .label-hw } [Homework 5](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa24-materials&urlpath=lab%2Ftree%2Ffa24-materials%2Fhomework%2Fhw05%2Fhw5.pdf&branch=main) (due Nov 22 at **5 PM**)

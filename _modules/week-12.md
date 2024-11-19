@@ -11,3 +11,4 @@ Nov 13
 
 Nov 14
 : **Midterm**{: .label .label-exam } Midterm 2
+: **Vitamin**{: .label .label-vit } [Vitamin 11](https://www.gradescope.com/courses/845267/assignments/5326743) (due Nov 17 at 11:59 PM)

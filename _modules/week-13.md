@@ -8,7 +8,7 @@ Nov 17
 
 Nov 19
 : **Lecture**{: .label .label-lecture } [22. Reinforcement Learning II](lecture/lec22)
-: **Discussion**{: .label .label-disc } [Discussion 10](https://drive.google.com/file/d/14NcahvYjz9Bzs0Y-eV5zJwhj_eV67CJW/view?usp=sharing)
+: **Discussion**{: .label .label-disc } [Discussion 10](https://drive.google.com/file/d/14NcahvYjz9Bzs0Y-eV5zJwhj_eV67CJW/view?usp=sharing) ([Answers](https://drive.google.com/file/d/1CKwk7fiSFoeFvDXHhmdalBCz8xQ6wRHm/view?usp=sharing))
 
 Nov 21
 : **Lecture**{: .label .label-lecture } 23. Monte Carlo Tree Search

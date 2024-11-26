@@ -12,7 +12,7 @@ Nov 26
 : **Lab**{: .label .label-lab } [Lab 12: Differential Privacy (Optional)](https://data102.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-102%2Ffa24-materials&urlpath=lab%2Ftree%2Ffa24-materials%2Flab%2Flab12%2Flab12.ipynb&branch=main) (No due date)
 
 Nov 26
-: **Lecture**{: .label .label-lecture } 24. Case Studies, Robustness, and Generalization
+: **Lecture**{: .label .label-lecture } [24. Case Studies, Robustness, and Generalization](lecture/lec24)
 
 Nov 28
 : **Lecture**{: .label .label-lecture } Holiday

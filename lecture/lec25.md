@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lecture 24 - Bridging Technical and Ethical Perspectives
+title: Lecture 25 - Bridging Technical and Ethical Perspectives
 nav_exclude: true
 ---
 
-# Lecture 24 - Bridging Technical and Ethical Perspectives
+# Lecture 25 - Bridging Technical and Ethical Perspectives
 
 Presented by Alexander Strang and Ramesh Sridharan
 

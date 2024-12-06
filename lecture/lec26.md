@@ -4,7 +4,7 @@ title: Lecture 26 - Course Wrap-Up
 nav_exclude: true
 ---
 
-# Lecture 25 - Course Wrap-Up
+# Lecture 26 - Course Wrap-Up
 
 Presented by Ramesh Sridharan
 

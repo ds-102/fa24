@@ -5,6 +5,9 @@ nav_order: 4
 description: Calendars with times for all course events.
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data102.org/)
+
 # Calendar
 
 All course events are listed in the following calendar. Click on the events to check the locations.

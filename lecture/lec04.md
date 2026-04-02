@@ -4,6 +4,9 @@ title: Lecture 4 – Binary Decision Making IV
 nav_exclude: true
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data102.org/)
+
 # Lecture 4 – Binary Decision Making IV (Balancing Specificity and Sensitivity)
 
 Presented by Alexander Strang

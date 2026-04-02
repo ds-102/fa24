@@ -5,6 +5,9 @@ nav_order: 7
 description: A listing of all the course staff members.
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data102.org/)
+
 # Staff
 
 Append `@berkeley.edu` to all email addresses. **For personal circumstances or sensitive matters,** please use the staff email address **[data102@berkeley.edu](mailto:data102@berkeley.edu)**, which is monitored only by the instructors and a few lead TAs.

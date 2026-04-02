@@ -5,6 +5,9 @@ nav_order: 1
 description: A week-to-week description of the content covered in the course.
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data102.org/)
+
 # Data 102: Data, Inference, and Decisions
 
 {: .mb-2 }

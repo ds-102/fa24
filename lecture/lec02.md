@@ -4,6 +4,9 @@ title: Lecture 2 – Binary Decision Making I
 nav_exclude: true
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data102.org/)
+
 # Lecture 2 – Binary Decision Making II (Error Rates, Probability, and the NHST)
 
 Presented by Alexander Strang

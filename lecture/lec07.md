@@ -4,6 +4,9 @@ title: Lecture 7 - Bayesian Hierarchical Models
 nav_exclude: true
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data102.org/)
+
 # Lecture 7 - Bayesian Hierarchical Models
 
 Presented by Ramesh Sridharan

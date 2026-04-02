@@ -4,6 +4,9 @@ title: Lecture 22 - Reinforcement Learning II
 nav_exclude: true
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data102.org/)
+
 # Lecture 22 - Reinforcement Learning II
 
 Presented by Alexander Strang
